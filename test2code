@@ -1,0 +1,7 @@
+puts "give first number"
+firstNum = gets.chomp
+
+puts "get second number"
+secNum = gets. chomp
+
+puts firstNum*secNum
